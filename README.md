@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./e7cb3e8f-cd55-479f-b4c5-c7eeac082c51.png" width="100%" alt="Infant Janish T - Full Stack Developer" />
+  <img src="./assets/GitBanner.png" width="100%" alt="Infant Janish T - Full Stack Developer" />
 </p>
 
 <h1 align="center">Hey there, I'm Infant Janish T 👋</h1>
