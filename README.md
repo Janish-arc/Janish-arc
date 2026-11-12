@@ -125,22 +125,6 @@ A full-stack food delivery platform connecting customers with restaurants and pr
 
 **Tech Stack:** React.js · Redux Toolkit · Node.js · Express.js · MongoDB · Cloudinary · Bootstrap
 
-🔗 [View Project](YOUR_FOOD_DELIVERY_REPOSITORY_URL)
-
----
-
-### ♻️ Food Recovery System
-
-A web application connecting food donors, NGOs, and volunteers to facilitate food recovery and redistribution.
-
-**Key Features:**
-- Role-based user management.
-- Food donation management.
-- Image uploads using Cloudinary.
-- Food recovery coordination.
-
-**Tech Stack:** MongoDB · Express.js · React.js · Node.js · Cloudinary
-
 🔗 [View Project](https://github.com/Janish-arc/Food-Recovery-System)
 
 ---
