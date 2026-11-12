@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Infant Janish - Full Stack Developer" />
+  <img src="./assets/banner.png" width="100%" alt="Infant Janish T - Full Stack Developer" />
 </p>
 
 <h1 align="center">Hey there, I'm Infant Janish T 👋</h1>
@@ -11,20 +11,16 @@
   Building scalable, responsive web applications and solving real-world problems through code.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Janish-arc&style=flat-square&color=F97316" alt="Profile Views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
 I'm a passionate Full Stack Developer focused on building modern web applications using the MERN stack. I enjoy developing complete web solutions, designing RESTful APIs, and creating seamless user experiences.
 
-- 💻 Building full-stack applications using MongoDB, Express.js, React.js, and Node.js.
+- 💻 Building full-stack applications using the MERN stack.
 - ⚡ Exploring Next.js and modern frontend technologies.
-- 🔐 Experienced in JWT authentication and Role-Based Access Control (RBAC).
-- 🗄️ Working with MongoDB and MySQL for database management.
+- 🔐 Experienced in JWT authentication and Role-Based Access Control.
+- 🗄️ Working with MongoDB and MySQL.
 - 🧠 Practicing Data Structures and Algorithms using Java.
 - 🚀 Passionate about building practical, real-world applications.
 - 🎯 Open to Junior Full Stack Developer opportunities.
@@ -36,31 +32,63 @@ I'm a passionate Full Stack Developer focused on building modern web application
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html" width="45" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="45" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="45" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="45" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" width="45" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="45" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" />
 </p>
 
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="45" />
 </p>
 
 ### 🗄️ Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" />
 </p>
 
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,java" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="45" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="45" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="45" />
 </p>
 
 ### 🔧 Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=git" width="45" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="45" />
+</p>
+
+### ☁️ Cloud & Image Management
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cloudinary" width="45" />
 </p>
 
 ---
@@ -85,7 +113,7 @@ A full-stack e-commerce platform designed for browsing and purchasing electronic
 
 ### 🍔 Food Delivery Application
 
-A full-stack food delivery platform that connects customers with restaurants and provides a seamless food ordering experience.
+A full-stack food delivery platform connecting customers with restaurants and providing a seamless food ordering experience.
 
 **Key Features:**
 - Restaurant discovery and menu browsing.
@@ -103,7 +131,7 @@ A full-stack food delivery platform that connects customers with restaurants and
 
 ### ♻️ Food Recovery System
 
-A web application designed to connect food donors, NGOs, and volunteers to facilitate food recovery and redistribution.
+A web application connecting food donors, NGOs, and volunteers to facilitate food recovery and redistribution.
 
 **Key Features:**
 - Role-based user management.
@@ -113,7 +141,7 @@ A web application designed to connect food donors, NGOs, and volunteers to facil
 
 **Tech Stack:** MongoDB · Express.js · React.js · Node.js · Cloudinary
 
-🔗 [View Project](YOUR_FOOD_RECOVERY_REPOSITORY_URL)
+🔗 [View Project](https://github.com/Janish-arc/Food-Recovery-System)
 
 ---
 
@@ -154,7 +182,7 @@ SASTRA Deemed University | 2026
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/infant-janish-t/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
